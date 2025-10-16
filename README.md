@@ -641,6 +641,8 @@ algorithms, knowledgebase and AI technology.
 * [Voter Records](https://voterrecords.com/) - Free political research tool to study more than 100 Million US voter records.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
+* [OSINT.Industries](https://osint.industries) — Multi-source lookup tool for email, username, phone, IP, and cryptocurrency wallet intelligence aggregation.
+
 
 ## [↑](#-table-of-contents) Email Search / Email Check
 
@@ -1498,6 +1500,8 @@ algorithms, knowledgebase and AI technology.
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
 * [ZMail](http://zmail.sourceforge.net)
+* [OnionShare](https://onionshare.org) — Open-source platform for securely sharing files, hosting temporary websites, and chatting anonymously over Tor.
+
 
 ## [↑](#-table-of-contents) DNS
 * [Amass](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
